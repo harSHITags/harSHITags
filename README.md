@@ -39,11 +39,6 @@ A churn analytics platform: an XGBoost model served through a FastAPI backend, w
 
 `Python` `Scikit-learn` `XGBoost` `SHAP` `FastAPI` `React` `TypeScript` `Docker`
 
-### 🗂️ [File Hider](https://github.com/harSHITags/File-Hider-Java-MySQL-)
-A Java application with MySQL integration that implements file-hiding functionality, built to practise object-oriented design and database-backed persistence.
-
-`Java` `MySQL`
-
 ---
 
 ## Currently focused on
